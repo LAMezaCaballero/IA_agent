@@ -54,6 +54,15 @@ Este segundo proyecto consiste en la integración de la API de OpenAI dentro de 
 
 ---
 
+### `2daevaluacon`
+
+Este archivo se juntan las evidencias de los proyectos 3, 4 y 5.
+
+- proyecto 3 Uso de la IA en PowerBI
+- proyecto 4 Uso de IA en la creación de archivos Multimedia
+- proyecto 5 Uso de Ia para front end
+
+
 ## ✍️ Autor
 
 Luis Meza  
